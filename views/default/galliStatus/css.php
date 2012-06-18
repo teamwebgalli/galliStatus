@@ -3,7 +3,7 @@
  *	Elgg user status
  *	Author : Mohammed Aqeel | Team Webgalli
  *	Team Webgalli | Elgg developers and consultants
- *	Mail : info@webgalli.com
+ *	Mail : info [at] webgalli [dot] com
  *	Web	: http://webgalli.com
  *	Skype : 'team.webgalli'
  *	@package User status plugin for Elgg
