@@ -1,15 +1,16 @@
-Author information
+Author Information
+------------------
 
- *	Elgg user status
- *	Author : Mohammed Aqeel | Team Webgalli
+ *	Elgg User Online Status Icon
+ *	Author : Raez Mon | Team Webgalli
  *	Team Webgalli | Elgg developers and consultants
- *	Mail : info [at] webgalli [dot] com
- *	Web	: http://webgalli.com
+ *	Web	: http://webgalli.com 
  *	Skype : 'team.webgalli'
- *	@package User status plugin for Elgg
+ *	@package galliStatus
+ * 	Plugin info : Provides an icon showing the online status of user.
  *	Licence : GNU2
  *	Copyright : Team Webgalli 2011-2015
  
 Instructions:
-
+-------------
  *	Drop into mod, enable in the admin panel and use.
